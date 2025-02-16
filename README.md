@@ -35,3 +35,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="50" height="50" style="border-radius: 50%;"/>
   </a>
 </p>
+
+## Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saad-mujawar-96350a2b4/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%;"/>
+  </a>
+  <a href="https://hashnode.com/@mujawarsaad" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="50" height="50" style="border-radius: 50%;"/>
+  </a>
+</p>
+
