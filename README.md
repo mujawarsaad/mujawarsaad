@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
 </p>
-<div style="height: 1px; background: linear-gradient(to right, #ff8c00, #ff0080, #8000ff); border: none;"></div>
+<hr style="height: 1px; background-color: gray; border: none;">
 
 
 ## Connect with me
