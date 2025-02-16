@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
 </p>
-<hr style="height: 1px; background-color: gray; border: none;">
+<hr style="height: 1px; background-color: black; border: none;">
 
 
 ## Connect with me
@@ -46,6 +46,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/saad-mujawar-96350a2b4/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50" style="border-radius: 50%;"/>
+  </a>
+  <a href="https://mail.google.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="50" height="50" style="border: none; outline: none;"/>
   </a>
   <a href="https://hashnode.com/@mujawarsaad" target="_blank">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="50" height="50" style="border-radius: 50%;"/>
