@@ -1,4 +1,4 @@
-<h1 style="color: #3498db; font-family: 'Arial', sans-serif; text-align: center; font-weight: bold;">Saad</h1>
+<h1 style="color: #3498db; font-family: 'Arial', sans-serif; text-align: center; font-weight: bold;">Saad Mujawar</h1>
 
 Hey there! I'm Saad, a Computer Science student. My specialization and career interest lie in DevOps and Cloud Computing. I have a deep interest in automating post-development processes with innovative tools and methodologies. I'm always eager to explore and adopt new technologies in DevOps that can help streamline workflows and optimize performance.
 
