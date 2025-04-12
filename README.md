@@ -1,4 +1,6 @@
-# Saad Mujawar | DevOps Engineer 
+<h1 align="center"> 
+Saad Mujawar | DevOps Engineer
+</h1>
 Hey there! I'm Saad, a Computer Science student. My specialization and career interest lie in DevOps and Cloud Computing. I have a deep interest in automating post-development processes with innovative tools and methodologies. I'm always eager to explore and adopt new technologies in DevOps that can help streamline workflows and optimize performance.
 
 Eager to bring my DevOps expertise to a team, contribute meaningfully, and grow within a challenging environment.
