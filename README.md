@@ -46,6 +46,9 @@ Let’s connect and explore opportunities to work together.
   <a href="https://www.python.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
+  <a href="https://about.gitlab.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" height="50" style="border-radius: 50%;" />
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 <hr style="height: 1px; background-color: black; border: none;">
 
